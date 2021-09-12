@@ -1,4 +1,4 @@
-# Pape.js Starter
+# Paper.js Starter
 
 Bare bones repository with Paper set up with some example code.
 
